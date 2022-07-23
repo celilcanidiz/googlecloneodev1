@@ -1,0 +1,19 @@
+.searchbar-container {
+    background-color: #EEEEEE;
+}
+.button-container {
+    transform:translateY(-10px);
+}
+.links-container{
+    display: grid;
+    grid-template-columns: 3fr 2fr 4fr;
+}
+.div1{
+    background-color: #7EE5DA;
+}
+.div2{
+    background-color: #70ccc2;
+}
+.div3{
+    background-color: #62B3AA;
+}
